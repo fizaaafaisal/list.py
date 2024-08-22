@@ -1,0 +1,7 @@
+mark=[1,2,3,4,5]
+
+mark.pop()
+print(mark)
+
+mark.pop(3)
+print(mark)
